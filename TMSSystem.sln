@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSSystem", "TMSSystem\TMSSystem.csproj", "{E8E21C31-3A52-4708-853A-9673C1D6214B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSBiz", "TMSBiz\TMSBiz.csproj", "{EF244815-E09B-4979-91F5-9E38CD7F5590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSData", "TMSData\TMSData.csproj", "{096A2506-52CF-4167-B3CA-54EC97FCF625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E21C31-3A52-4708-853A-9673C1D6214B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E21C31-3A52-4708-853A-9673C1D6214B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E21C31-3A52-4708-853A-9673C1D6214B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E21C31-3A52-4708-853A-9673C1D6214B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF244815-E09B-4979-91F5-9E38CD7F5590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF244815-E09B-4979-91F5-9E38CD7F5590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF244815-E09B-4979-91F5-9E38CD7F5590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF244815-E09B-4979-91F5-9E38CD7F5590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096A2506-52CF-4167-B3CA-54EC97FCF625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096A2506-52CF-4167-B3CA-54EC97FCF625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096A2506-52CF-4167-B3CA-54EC97FCF625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096A2506-52CF-4167-B3CA-54EC97FCF625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93BCC24D-C792-4F89-807C-87E046B31990}
+	EndGlobalSection
+EndGlobal
